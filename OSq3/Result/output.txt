@@ -1,3 +1,0 @@
-Result of xor 3 4: 81
-Result of Compare -7 4: 4
-Result of Product 2 -4.3: -8.6
